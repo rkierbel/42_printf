@@ -1,5 +1,5 @@
 # 42_printf
-This project is pretty straightforward -> I recoded printf
+This project is pretty straightforward -> I recoded printf.
 
 My printf manages the following conversions : cspdiuxX%
 
@@ -24,4 +24,4 @@ As with all C functions, you have to provide the parameters that have an actual 
 
 The function returns the number of characters that it printed, or a negative value if some sort of error occurred (note errors do not cover undefined behaviour).
 
-What I got from this project : deep understanding of structures manipulation in C, variadic functions, enhanced string manipulation
+What I got from this project : deep understanding of structures manipulation in C, variadic functions, enhanced string manipulation.
